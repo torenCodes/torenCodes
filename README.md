@@ -29,9 +29,10 @@ the site can be traced to the reason behind it. The output is the gap against co
 not another ranking. Live at [footballforecast.net](https://footballforecast.net).
 
 **[sql-case-studies](https://github.com/torenCodes/sql-case-studies)** — small analyses
-that each start from a business question, answer it in SQL, and end in a Power BI report.
-So far: what drives video game sales, and which college majors actually pay for
-themselves. Databases and reports are included, so every query can be re-run.
+that each start from a business question, answer it in SQL, and end in a Power BI or
+Tableau dashboard. So far: what drives video game sales, which college majors pay for
+themselves, and which patients with diabetes missed their A1c test (on synthetic data).
+Every query notes the result it should return, so the work can be checked.
 
 ---
 
@@ -40,7 +41,7 @@ themselves. Databases and reports are included, so every query can be re-run.
 Completing DataCamp's Associate Data Analyst certification, and looking for an
 entry-level, remote data analyst role.
 
-**Python · SQL · Power BI · pandas · polars · GitHub Actions**
+**Python · SQL · Power BI · Tableau · pandas · polars · GitHub Actions**
 
 [databytoren.com](https://databytoren.com) ·
 [LinkedIn](https://www.linkedin.com/in/toren) ·
